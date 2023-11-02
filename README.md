@@ -1,3 +1,3 @@
 # Streamlit fetchs
 
-![](assets/screenshot.png)
+![](assets/screenshot1.png)
